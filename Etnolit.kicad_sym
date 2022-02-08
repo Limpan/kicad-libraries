@@ -625,7 +625,7 @@
         (name "ADR1" (effects (font (size 1.4986 1.4986))))
         (number "32" (effects (font (size 1.4986 1.4986))))
       )
-      (pin unspecified line (at -22.86 -21.59 0) (length 7.62)
+      (pin passive line (at -22.86 -21.59 0) (length 7.62)
         (name "EPAD" (effects (font (size 1.4986 1.4986))))
         (number "33" (effects (font (size 1.4986 1.4986))))
       )
